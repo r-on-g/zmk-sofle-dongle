@@ -236,10 +236,10 @@ layers:
   - {t: ;, h: '$$mdi:apple-keyboard-control$$', s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-control$$
-  - {t: Z, h: UNDO}
-  - {t: X, h: CUT}
-  - {t: C, h: COPY}
-  - {t: V, h: PASTE}
+  - {t: Z, h: Z}
+  - {t: X, h: X}
+  - {t: C, h: C}
+  - {t: V, h: V}
   - B
   - {t: '$$mdi:transfer$$', type: trans}
   - B
@@ -251,7 +251,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:keyboard-return$$', h: '$$mdi:apple-keyboard-caps$$'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:apple-keyboard-command$$
   - {t: '$$mdi:keyboard-space$$', h: Mac Nav}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
